@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+test-results/
+.DS_Store
+sudo-0x*.json
